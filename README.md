@@ -6,3 +6,4 @@ With data gathered from Kaggle( https://www.kaggle.com/jboysen/spy-plane-finder?
 
 After I recieved the predictions for each plane I was curious to find out the top businesses, cities, and states that had the highest probabilities of having spy planes; visuals are given to help answer those questions. 
 
+My complete analysis can be viewed at: https://shiny.byui.edu/connect/#/apps/1433/access
